@@ -1,27 +1,52 @@
 export default function Footer() {
   return (
-    <footer className="bg-indigo-600 text-white py-8" id="contato">
+    <footer className="bg-[#535DDF] text-white py-10" id="contato">
       <div className="container mx-auto px-6 flex flex-col md:flex-row items-center justify-between gap-6">
         <div>
-          <span className="font-bold text-xl">SeuLogo</span>
-          <p className="text-indigo-200 mt-2">
-            © {new Date().getFullYear()} Sua Empresa. Todos os direitos reservados.
-          </p>
-        </div>
-        <div className="flex gap-6">
-          <a href="https://wa.me/5511999999999" target="_blank" rel="noopener" className="hover:text-indigo-300">
-            <svg width="28" height="28" fill="none" viewBox="0 0 24 24">
-              <circle cx="12" cy="12" r="10" stroke="white" strokeWidth="2" />
-            </svg>
+          <a href="#hero">
+            <img
+              src="https://quantecportal.com/wp-content/uploads/2025/04/logo-angelo-1-1.svg"
+              alt="Logo Quantec"
+              className="h-10 w-auto mb-4"
+            />
           </a>
-          <a href="mailto:contato@seuemail.com" className="hover:text-indigo-300">
-            <svg width="28" height="28" fill="none" viewBox="0 0 24 24">
-              <rect x="4" y="7" width="16" height="10" stroke="white" strokeWidth="2" />
-              <polyline points="4,7 12,13 20,7" stroke="white" strokeWidth="2" fill="none"/>
+          <p className="text-sm">
+            UNICO DIGITAL © Todos os Direitos Reservados – 2025
+          </p>
+          <a
+            href="https://unicodigital.com.br/unico-digital-2-3-2-2/"
+            target="_blank"
+            rel="noopener"
+            className="text-sm underline hover:text-[#FFCC99]"
+          >
+            Termo de uso – Política de privacidade
+          </a>
+        </div>
+
+        <div className="flex gap-6">
+          <a
+            href="https://www.instagram.com/unicodigital_?igsh=MXh6ZGhzN2hsaTIwdg%3D%3D"
+            target="_blank"
+            rel="noopener"
+            className="hover:brightness-110"
+          >
+            <svg
+              width="28"
+              height="28"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="white"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+            >
+              <rect x="2" y="2" width="20" height="20" rx="5" ry="5" />
+              <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z" />
+              <line x1="17.5" y1="6.5" x2="17.51" y2="6.5" />
             </svg>
           </a>
         </div>
       </div>
     </footer>
-  )
+  );
 }
