@@ -1,46 +1,139 @@
 {
-  "services": {
-    "h2": "Nossos Serviços de Medicina Quântica",
-    "bullets": [
-      "Tratamento à distância com uso do Quantec",
-      "Análise energética personalizada",
-      "Acompanhamento semanal dos resultados"
-    ],
-    "cta_whatsapp": "https://wa.me/5521979658483?text=Gostaria%20de%20iniciar%20o%20tratamento",
-    "cta_label": "Quero começar agora",
-    "img": "https://quantecportal.com/wp-content/uploads/2025/03/servicos.webp"
+  "cores": {
+    "primaria": "#535DDF",
+    "cinza_claro": "#F3F3F3",
+    "texto": "#333333",
+    "cta": "#FF6600"
   },
-  "steps": {
-    "h2": "Como funciona o processo",
+
+  "header": {
+    "logo": "https://quantecportal.com/wp-content/uploads/2025/04/logo-angelo-1-1.svg",
+    "menu": [
+      { "nome": "etapas", "link": "#etapas" },
+      { "nome": "quem somos", "link": "#quem_somos" }
+    ],
+    "telefone_exibicao": "(21) 97965-8483",
+    "telefone_link": "21979658483",
+    "cta_label": "Entenda os Benefícios",
+    "cta_whatsapp": "https://wa.me/5521979658483?text=Gostaria%20de%20saber%20mais%20sobre%20a%20terapia"
+  },
+
+  "hero": {
+    "h1": "Medicina Quântica Segura Com Tecnologia de Ponta",
+    "p": "Terapia Quântica não invasiva, reconhecida na Europa e aplicada com precisão por profissional experiente.",
+    "img": "https://quantecportal.com/wp-content/uploads/2025/03/foto-angelo.webp"
+  },
+
+  "beneficios": {
+    "h2": "Os Benefícios da Energia Quântica no seu dia a dia.",
     "items": [
-      { "title": "1. Questionário Inicial", "desc": "Coletamos informações para personalizar o envio das frequências." },
-      { "title": "2. Envio da Foto", "desc": "Utilizamos sua foto para identificar seu campo energético." },
-      { "title": "3. Programação do Equipamento", "desc": "Configuramos o Quantec com as frequências adequadas." },
-      { "title": "4. Acompanhamento", "desc": "Você recebe feedbacks periódicos dos resultados alcançados." }
-    ],
-    "cta_whatsapp": "https://wa.me/5521979658483?text=Quero%20saber%20mais%20sobre%20as%20etapas",
-    "cta_label": "Falar com Especialista"
+      { "title": "🧘‍♀️ Alívio Progressivo do Estresse", "desc": "Favorece equilíbrio e tranquilidade ao longo do tempo." },
+      { "title": "⚡ Energia Renovada para Seu Dia a Dia", "desc": "Melhora gradual na disposição." },
+      { "title": "🛡️ Fortalecimento do Sistema Imunológico", "desc": "Equilíbrio energético que apoia o organismo." },
+      { "title": "🌙 Melhora na Qualidade do Sono", "desc": "Sensação de descanso mais profundo e regular." },
+      { "title": "🧠 Aumento da Clareza Mental", "desc": "Favorece concentração e decisões conscientes." },
+      { "title": "💖 Harmonia Emocional Duradoura", "desc": "Estabilidade interna a longo prazo." }
+    ]
   },
-  "technology": {
-    "h2": "Tecnologia Quantec Exclusiva",
+
+  "services": {
+    "h2": "Terapia Quântica: Como Funciona",
     "bullets": [
-      "Envio de frequências à distância",
-      "Resultados mensuráveis",
-      "Equipamento certificado na Europa"
+      "🧠 Identifica padrões sutis que influenciam a vida.",
+      "⚖️ Lidar com causas profundas promove mudanças reais.",
+      "🔄 Resultados variam conforme cada pessoa.",
+      "🌱 Melhor com abertura para mudanças conscientes."
     ],
-    "cta_whatsapp": "https://wa.me/5521979658483?text=Quero%20conhecer%20a%20tecnologia",
-    "cta_label": "Conhecer a Tecnologia",
-    "img": "https://quantecportal.com/wp-content/uploads/2025/03/tecnologia.webp"
+    "img": "https://quantecportal.com/wp-content/uploads/2025/03/image-18-300x300.webp",
+    "cta_label": "Entenda os Benefícios",
+    "cta_whatsapp": "https://wa.me/5521979658483?text=Gostaria%20de%20saber%20mais%20sobre%20a%20terapia"
   },
+
+  "videos": [
+    "https://www.youtube.com/embed/8AIcDOsxS7Q",
+    "https://www.youtube.com/embed/Mwr6JtFcwtY",
+    "https://www.youtube.com/embed/yZqOZxGUwO4",
+    "https://www.youtube.com/embed/eEtyHvQv0Ww",
+    "https://www.youtube.com/embed/IjwyGMuvpnE",
+    "https://www.youtube.com/embed/75CPBU8uZEE"
+  ],
+
+  "steps": {
+    "h2": "Etapas do Tratamento",
+    "items": [
+      { "title": "🗂️ 1. Receba o material de orientação", "desc": "E-mail com vídeo explicativo e formulário de planejamento." },
+      { "title": "📝 2. Defina seus objetivos", "desc": "Descreva até dois tratamentos e detalhe suas necessidades." },
+      { "title": "📸 3. Envie sua foto digital", "desc": "A fotografia conecta seu campo energético ao sistema." },
+      { "title": "🚀 4. Início do tratamento e acompanhamento", "desc": "Frequências vibracionais atuam dia e noite; relatórios por e-mail." }
+    ],
+    "cta_label": "Entenda os Benefícios",
+    "cta_whatsapp": "https://wa.me/5521979658483?text=Gostaria%20de%20saber%20mais%20sobre%20a%20terapia"
+  },
+
+  "technology": {
+    "h2": "Entenda o Quantec",
+    "bullets": [
+      "🧠 Tecnologia Alemã Avançada – biocomunicação instrumental.",
+      "🔍 Leitura do Campo Energético via fotografia digital.",
+      "🌐 Ajustes Frequenciais automáticos, dia e noite.",
+      "🏆 Reconhecimento e Precisão premiados na Europa."
+    ],
+    "img": "https://quantecportal.com/wp-content/uploads/2025/03/image-18-300x300.webp",
+    "cta_label": "Entenda os Benefícios",
+    "cta_whatsapp": "https://wa.me/5521979658483?text=Gostaria%20de%20saber%20mais%20sobre%20a%20terapia"
+  },
+
   "about": {
-    "h2": "Quem Somos",
-    "img": "https://quantecportal.com/wp-content/uploads/2025/03/sobre.webp",
-    "text": "Somos especialistas em terapia quântica, com anos de experiência utilizando o Quantec para melhorar a vida de centenas de pessoas."
+    "h2": "Quem é Angelo Coviello",
+    "text": "Angelo Coviello é terapeuta especializado em terapias quânticas, vibracionais e holísticas. Com mais de 8 anos de experiência, integra o uso do aparelho Quantec em protocolos voltados ao bem-estar.\n\nResponsável pelos atendimentos deste site, atua com foco no equilíbrio energético e na harmonização entre corpo, mente e emoções.",
+    "img": "https://quantecportal.com/wp-content/uploads/2025/02/terapeuta-quantec-300x231.jpg"
   },
+
+  "faq": [
+    {
+      "q": "Precisa de consulta para tratamento de medicina quântica?",
+      "a": "Não. Processo iniciado por formulário digital e envio de foto."
+    },
+    {
+      "q": "Como o Quantec analisa minha energia?",
+      "a": "Escaneia seu campo vibracional comparando com frequências saudáveis."
+    },
+    {
+      "q": "A terapia quântica é segura? Existem efeitos colaterais?",
+      "a": "É segura e não invasiva; sem efeitos colaterais conhecidos."
+    },
+    {
+      "q": "O Quantec realmente funciona?",
+      "a": "Melhorias relatadas nas primeiras semanas; recomendamos 3 meses."
+    },
+    {
+      "q": "Posso combinar com outros tratamentos?",
+      "a": "Sim, terapia complementar que pode potencializar outros tratamentos."
+    },
+    {
+      "q": "Como é realizado o tratamento à distância?",
+      "a": "Enviamos frequências específicas sem necessidade de presença física."
+    },
+    {
+      "q": "Qual a diferença entre Quantum Vita e outras terapias?",
+      "a": "Tecnologia Quantec de ponta, tratamentos personalizados e mensuráveis."
+    },
+    {
+      "q": "A terapia quântica ajuda em questões emocionais?",
+      "a": "Sim; equilíbrio energético impacta diretamente nas emoções."
+    }
+  ],
+
   "final_cta": {
-    "h2": "Transforme sua Energia",
-    "h3": "Inicie hoje mesmo sua jornada de equilíbrio com a nossa equipe",
-    "cta_whatsapp": "https://wa.me/5521979658483?text=Gostaria%20de%20agendar",
-    "cta_label": "Agendar Sessão"
+    "h2": "Veja como funciona antes de decidir pelo tratamento.",
+    "h3": "Processo claro: dados objetivos, etapas definidas e respeito ao seu ritmo pessoal.",
+    "cta_label": "Entenda os Benefícios",
+    "cta_whatsapp": "https://wa.me/5521979658483?text=Gostaria%20de%20saber%20mais%20sobre%20a%20terapia"
+  },
+
+  "footer": {
+    "instagram": "https://www.instagram.com/unicodigital_?igsh=MXh6ZGhzN2hsaTIwdg%3D%3D",
+    "copyright": "UNICO DIGITAL © Todos os Direitos Reservados – 2025",
+    "termos_link": "https://unicodigital.com.br/unico-digital-2-3-2-2/"
   }
 }
