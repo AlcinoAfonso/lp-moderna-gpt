@@ -1,0 +1,46 @@
+{
+  "services": {
+    "h2": "Nossos Serviços de Medicina Quântica",
+    "bullets": [
+      "Tratamento à distância com uso do Quantec",
+      "Análise energética personalizada",
+      "Acompanhamento semanal dos resultados"
+    ],
+    "cta_whatsapp": "https://wa.me/5521979658483?text=Gostaria%20de%20iniciar%20o%20tratamento",
+    "cta_label": "Quero começar agora",
+    "img": "https://quantecportal.com/wp-content/uploads/2025/03/servicos.webp"
+  },
+  "steps": {
+    "h2": "Como funciona o processo",
+    "items": [
+      { "title": "1. Questionário Inicial", "desc": "Coletamos informações para personalizar o envio das frequências." },
+      { "title": "2. Envio da Foto", "desc": "Utilizamos sua foto para identificar seu campo energético." },
+      { "title": "3. Programação do Equipamento", "desc": "Configuramos o Quantec com as frequências adequadas." },
+      { "title": "4. Acompanhamento", "desc": "Você recebe feedbacks periódicos dos resultados alcançados." }
+    ],
+    "cta_whatsapp": "https://wa.me/5521979658483?text=Quero%20saber%20mais%20sobre%20as%20etapas",
+    "cta_label": "Falar com Especialista"
+  },
+  "technology": {
+    "h2": "Tecnologia Quantec Exclusiva",
+    "bullets": [
+      "Envio de frequências à distância",
+      "Resultados mensuráveis",
+      "Equipamento certificado na Europa"
+    ],
+    "cta_whatsapp": "https://wa.me/5521979658483?text=Quero%20conhecer%20a%20tecnologia",
+    "cta_label": "Conhecer a Tecnologia",
+    "img": "https://quantecportal.com/wp-content/uploads/2025/03/tecnologia.webp"
+  },
+  "about": {
+    "h2": "Quem Somos",
+    "img": "https://quantecportal.com/wp-content/uploads/2025/03/sobre.webp",
+    "text": "Somos especialistas em terapia quântica, com anos de experiência utilizando o Quantec para melhorar a vida de centenas de pessoas."
+  },
+  "final_cta": {
+    "h2": "Transforme sua Energia",
+    "h3": "Inicie hoje mesmo sua jornada de equilíbrio com a nossa equipe",
+    "cta_whatsapp": "https://wa.me/5521979658483?text=Gostaria%20de%20agendar",
+    "cta_label": "Agendar Sessão"
+  }
+}
