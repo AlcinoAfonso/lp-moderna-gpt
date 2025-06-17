@@ -1,9 +1,9 @@
 {
   "cores": {
-    "primaria": "#535DDF",
+    "azul_claro": "#535DDF",
     "cinza_claro": "#F3F3F3",
     "texto": "#333333",
-    "cta": "#FF6600"
+    "laranja": "#FF6600"
   },
 
   "header": {
@@ -13,58 +13,93 @@
       { "nome": "quem somos", "link": "#quem_somos" }
     ],
     "telefone_exibicao": "(21) 97965-8483",
-    "telefone_link": "21979658483",
-    "cta_label": "Entenda os Benefícios",
-    "cta_whatsapp": "https://wa.me/5521979658483?text=Gostaria%20de%20saber%20mais%20sobre%20a%20terapia"
+    "telefone_link": "21979658483"
   },
 
   "hero": {
     "h1": "Medicina Quântica Segura Com Tecnologia de Ponta",
     "p": "Terapia Quântica não invasiva, reconhecida na Europa e aplicada com precisão por profissional experiente.",
+    "cta_label": "Entenda os Benefícios",
+    "cta_whatsapp": "https://wa.me/5521979658483?text=Gostaria%20de%20saber%20mais%20sobre%20a%20terapia",
     "img": "https://quantecportal.com/wp-content/uploads/2025/03/foto-angelo.webp"
   },
 
   "beneficios": {
     "h2": "Os Benefícios da Energia Quântica no seu dia a dia.",
     "items": [
-      { "title": "🧘‍♀️ Alívio Progressivo do Estresse", "desc": "Favorece equilíbrio e tranquilidade ao longo do tempo." },
-      { "title": "⚡ Energia Renovada para Seu Dia a Dia", "desc": "Melhora gradual na disposição." },
-      { "title": "🛡️ Fortalecimento do Sistema Imunológico", "desc": "Equilíbrio energético que apoia o organismo." },
-      { "title": "🌙 Melhora na Qualidade do Sono", "desc": "Sensação de descanso mais profundo e regular." },
-      { "title": "🧠 Aumento da Clareza Mental", "desc": "Favorece concentração e decisões conscientes." },
-      { "title": "💖 Harmonia Emocional Duradoura", "desc": "Estabilidade interna a longo prazo." }
+      {
+        "h3": "🧘‍♀️ Alívio Progressivo do Estresse",
+        "p": "Sinta a diferença no seu ritmo interno. O tratamento busca favorecer um estado de maior equilíbrio e tranquilidade ao longo do tempo."
+      },
+      {
+        "h3": "⚡ Energia Renovada para Seu Dia a Dia",
+        "p": "Muitos relatam melhora gradual na disposição. A terapia energética pode colaborar com o equilíbrio no cotidiano."
+      },
+      {
+        "h3": "🛡️ Fortalecimento do Sistema Imunológico",
+        "p": "O equilíbrio energético pode melhorar o funcionamento do organismo. Muitas pessoas relatam bem-estar durante o processo."
+      },
+      {
+        "h3": "🌙 Melhora na Qualidade do Sono",
+        "p": "Alguns clientes percebem mudanças positivas no sono, como sensação de descanso mais profundo e regular."
+      },
+      {
+        "h3": "🧠 Aumento da Clareza Mental",
+        "p": "O reequilíbrio energético pode favorecer estados de maior concentração, contribuindo para decisões mais conscientes no dia a dia."
+      },
+      {
+        "h3": "💖 Harmonia Emocional Duradoura",
+        "p": "O tratamento atua de forma sutil no campo emocional, podendo favorecer estabilidade interna e maior percepção de equilíbrio ao longo do tempo."
+      }
     ]
   },
 
   "services": {
     "h2": "Terapia Quântica: Como Funciona",
     "bullets": [
-      "🧠 Identifica padrões sutis que influenciam a vida.",
-      "⚖️ Lidar com causas profundas promove mudanças reais.",
-      "🔄 Resultados variam conforme cada pessoa.",
-      "🌱 Melhor com abertura para mudanças conscientes."
+      "🧠 A terapia busca identificar padrões sutis — emocionais, mentais, físicos ou energéticos — que influenciam a vida da pessoa, mesmo sem que ela perceba de forma consciente.",
+      "⚖️ Esses desequilíbrios podem estar por trás de conflitos, bloqueios ou desconfortos. Lidar com essas causas ajuda a promover mudanças reais no cotidiano.",
+      "🔄 Cada pessoa reage de forma única, por isso os resultados podem variar de acordo com a experiência e o momento de cada um.",
+      "🌱 A terapia não é uma promessa, mas tende a funcionar melhor quando há abertura para se observar, escutar a si mesmo e aplicar pequenas mudanças conscientes no seu dia a dia."
     ],
     "img": "https://quantecportal.com/wp-content/uploads/2025/03/image-18-300x300.webp",
     "cta_label": "Entenda os Benefícios",
     "cta_whatsapp": "https://wa.me/5521979658483?text=Gostaria%20de%20saber%20mais%20sobre%20a%20terapia"
   },
 
-  "videos": [
-    "https://www.youtube.com/embed/8AIcDOsxS7Q",
-    "https://www.youtube.com/embed/Mwr6JtFcwtY",
-    "https://www.youtube.com/embed/yZqOZxGUwO4",
-    "https://www.youtube.com/embed/eEtyHvQv0Ww",
-    "https://www.youtube.com/embed/IjwyGMuvpnE",
-    "https://www.youtube.com/embed/75CPBU8uZEE"
-  ],
+  "depoimentos": {
+    "h2": "Alguns de nossos depoimentos",
+    "videos": [
+      "https://www.youtube.com/watch?v=8AIcDOsxS7Q",
+      "https://www.youtube.com/watch?v=Mwr6JtFcwtY",
+      "https://www.youtube.com/watch?v=yZqOZxGUwO4",
+      "https://www.youtube.com/watch?v=eEtyHvQv0Ww",
+      "https://www.youtube.com/watch?v=IjwyGMuvpnE",
+      "https://www.youtube.com/watch?v=75CPBU8uZEE"
+    ],
+    "cta_label": "Entenda os Benefícios",
+    "cta_whatsapp": "https://wa.me/5521979658483?text=Gostaria%20de%20saber%20mais%20sobre%20a%20terapia"
+  },
 
   "steps": {
     "h2": "Etapas do Tratamento",
     "items": [
-      { "title": "🗂️ 1. Receba o material de orientação", "desc": "E-mail com vídeo explicativo e formulário de planejamento." },
-      { "title": "📝 2. Defina seus objetivos", "desc": "Descreva até dois tratamentos e detalhe suas necessidades." },
-      { "title": "📸 3. Envie sua foto digital", "desc": "A fotografia conecta seu campo energético ao sistema." },
-      { "title": "🚀 4. Início do tratamento e acompanhamento", "desc": "Frequências vibracionais atuam dia e noite; relatórios por e-mail." }
+      {
+        "h3": "🗂️ 1. Receba o material de orientação",
+        "p": "Após a contratação, você recebe um e-mail com um vídeo explicativo e o link para o formulário de planejamento."
+      },
+      {
+        "h3": "📝 2. Defina seus objetivos no formulário",
+        "p": "Descreva até dois tratamentos e detalhe suas necessidades; essas informações serão a base do planejamento personalizado."
+      },
+      {
+        "h3": "📸 3. Envie sua foto digital",
+        "p": "A fotografia conecta seu campo energético ao sistema, permitindo a análise com o diodo de ruído branco e a identificação de desequilíbrios."
+      },
+      {
+        "h3": "🚀 4. Início do tratamento e acompanhamento",
+        "p": "Seu tratamento começa em até 4 dias úteis; as frequências vibracionais atuam dia e noite, você recebe relatórios por e-mail e conta com suporte via WhatsApp para esclarecer dúvidas."
+      }
     ],
     "cta_label": "Entenda os Benefícios",
     "cta_whatsapp": "https://wa.me/5521979658483?text=Gostaria%20de%20saber%20mais%20sobre%20a%20terapia"
@@ -73,10 +108,10 @@
   "technology": {
     "h2": "Entenda o Quantec",
     "bullets": [
-      "🧠 Tecnologia Alemã Avançada – biocomunicação instrumental.",
-      "🔍 Leitura do Campo Energético via fotografia digital.",
-      "🌐 Ajustes Frequenciais automáticos, dia e noite.",
-      "🏆 Reconhecimento e Precisão premiados na Europa."
+      "🧠 Tecnologia Alemã Avançada\nDispositivo exclusivo de biocomunicação instrumental, usado à distância, sem medicamentos ou procedimentos físicos.",
+      "🔍 Leitura do Campo Energético\nCom uma fotografia digital, o sistema acessa padrões mentais, emocionais, físicos e energéticos.\nA leitura é feita por um sensor que capta informações do inconsciente.",
+      "🌐 Ajustes Frequenciais com Acompanhamento\nAs frequências vibracionais são programadas pelo terapeuta no início do tratamento e atuam automaticamente, dia e noite.",
+      "🏆 Reconhecimento e Precisão\nPremiado na Europa como Inovação em Saúde.\nCombina ciência, tecnologia e acompanhamento profissional para um tratamento personalizado."
     ],
     "img": "https://quantecportal.com/wp-content/uploads/2025/03/image-18-300x300.webp",
     "cta_label": "Entenda os Benefícios",
@@ -85,48 +120,53 @@
 
   "about": {
     "h2": "Quem é Angelo Coviello",
-    "text": "Angelo Coviello é terapeuta especializado em terapias quânticas, vibracionais e holísticas. Com mais de 8 anos de experiência, integra o uso do aparelho Quantec em protocolos voltados ao bem-estar.\n\nResponsável pelos atendimentos deste site, atua com foco no equilíbrio energético e na harmonização entre corpo, mente e emoções.",
+    "text": "Angelo Coviello é terapeuta especializado em terapias quânticas, vibracionais e holísticas. Com mais de 8 anos de experiência, integra o uso do aparelho Quantec em protocolos voltados ao bem-estar.\n\nResponsável pelos atendimentos deste site, atua com foco no equilíbrio energético e na harmonização entre corpo, mente e emoções. Utiliza abordagens reconhecidas para favorecer estados de saúde e estabilidade.",
     "img": "https://quantecportal.com/wp-content/uploads/2025/02/terapeuta-quantec-300x231.jpg"
   },
 
-  "faq": [
-    {
-      "q": "Precisa de consulta para tratamento de medicina quântica?",
-      "a": "Não. Processo iniciado por formulário digital e envio de foto."
-    },
-    {
-      "q": "Como o Quantec analisa minha energia?",
-      "a": "Escaneia seu campo vibracional comparando com frequências saudáveis."
-    },
-    {
-      "q": "A terapia quântica é segura? Existem efeitos colaterais?",
-      "a": "É segura e não invasiva; sem efeitos colaterais conhecidos."
-    },
-    {
-      "q": "O Quantec realmente funciona?",
-      "a": "Melhorias relatadas nas primeiras semanas; recomendamos 3 meses."
-    },
-    {
-      "q": "Posso combinar com outros tratamentos?",
-      "a": "Sim, terapia complementar que pode potencializar outros tratamentos."
-    },
-    {
-      "q": "Como é realizado o tratamento à distância?",
-      "a": "Enviamos frequências específicas sem necessidade de presença física."
-    },
-    {
-      "q": "Qual a diferença entre Quantum Vita e outras terapias?",
-      "a": "Tecnologia Quantec de ponta, tratamentos personalizados e mensuráveis."
-    },
-    {
-      "q": "A terapia quântica ajuda em questões emocionais?",
-      "a": "Sim; equilíbrio energético impacta diretamente nas emoções."
-    }
-  ],
+  "faq": {
+    "h2": "Perguntas Frequentes (FAQ)",
+    "items": [
+      {
+        "q": "Precisa de consulta para tratamento de medicina quântica?",
+        "a": "Não. O processo é iniciado com um formulário digital e envio de foto. Não há necessidade de consulta presencial."
+      },
+      {
+        "q": "Como o Quantec analisa minha energia?",
+        "a": "Ele escaneia seu campo vibracional, comparando com um banco de dados de frequências saudáveis para sugerir ajustes necessários."
+      },
+      {
+        "q": "A terapia quântica é segura? Existem efeitos colaterais?",
+        "a": "Sim, nossa terapia é completamente segura e não invasiva. Não há efeitos colaterais conhecidos, pois trabalhamos apenas com frequências naturais para harmonizar seu corpo."
+      },
+      {
+        "q": "O Quantec realmente funciona?",
+        "a": "Muitos clientes relatam melhorias já nas primeiras semanas. No entanto, recomendamos um tratamento mínimo de 3 meses para resultados mais profundos e duradouros."
+      },
+      {
+        "q": "Posso fazer a terapia quântica junto com outros tratamentos?",
+        "a": "Absolutamente! Nossa terapia é complementar e pode potencializar os efeitos de outros tratamentos. Sempre informe seu médico sobre todas as terapias que está realizando."
+      },
+      {
+        "q": "Como é realizado o tratamento à distância?",
+        "a": "Utilizamos tecnologia avançada que permite enviar frequências vibracionais específicas para você, independentemente de sua localização. Não é necessário estar fisicamente presente."
+      },
+      {
+        "q": "Qual a diferença entre Quantum Vita e outras terapias alternativas?",
+        "a": "Utilizamos tecnologia Quantec de ponta, oferecendo tratamentos personalizados e baseados em princípios da física quântica, com resultados mensuráveis."
+      },
+      {
+        "q": "A terapia quântica pode tratar problemas emocionais?",
+        "a": "Sim, nossa abordagem holística trabalha com o equilíbrio energético, que impacta diretamente nas emoções. Muitos clientes relatam melhora significativa em questões emocionais."
+      }
+    ],
+    "cta_label": "Entenda os Benefícios",
+    "cta_whatsapp": "https://wa.me/5521979658483?text=Gostaria%20de%20saber%20mais%20sobre%20a%20terapia"
+  },
 
   "final_cta": {
     "h2": "Veja como funciona antes de decidir pelo tratamento.",
-    "h3": "Processo claro: dados objetivos, etapas definidas e respeito ao seu ritmo pessoal.",
+    "h3": "O processo com o Quantec é claro: dados objetivos, etapas bem definidas e total respeito ao seu ritmo pessoal.",
     "cta_label": "Entenda os Benefícios",
     "cta_whatsapp": "https://wa.me/5521979658483?text=Gostaria%20de%20saber%20mais%20sobre%20a%20terapia"
   },
@@ -134,6 +174,7 @@
   "footer": {
     "instagram": "https://www.instagram.com/unicodigital_?igsh=MXh6ZGhzN2hsaTIwdg%3D%3D",
     "copyright": "UNICO DIGITAL © Todos os Direitos Reservados – 2025",
-    "termos_link": "https://unicodigital.com.br/unico-digital-2-3-2-2/"
+    "termos_link": "https://unicodigital.com.br/unico-digital-2-3-2-2/",
+    "termos_small": "Termo de uso - Política de privacidade"
   }
 }
