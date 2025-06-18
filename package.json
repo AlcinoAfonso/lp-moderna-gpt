@@ -11,7 +11,8 @@
     "next": "14.2.1",
     "react": "18.3.0",
     "react-dom": "18.3.0",
-    "lucide-react": "^0.356.0"
+    "lucide-react": "^0.356.0",
+    "framer-motion": "^11.0.0"
   },
   "devDependencies": {
     "tailwindcss": "^3.4.4",
