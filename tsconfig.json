@@ -20,9 +20,9 @@
     "plugins": [{ "name": "next" }],
 
     /* Alias que resolve o erro */
-    "baseUrl": ".",                 // permite paths relativos ao projeto
+    "baseUrl": ".",
     "paths": {
-      "@/*": ["src/*"]              // usar "@/algum/arquivo" resolve para "src/algum/arquivo"
+      "@/*": ["src/*"]
     }
   },
 
